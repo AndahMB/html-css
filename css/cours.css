@@ -1,0 +1,39 @@
+/*css pour le cours */
+body{
+    background: linear-gradient(rgba(0,0,0,0.4),transparent);
+}
+.main{
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+    width: 50%;
+    
+   
+
+}
+.main h1{
+    font-size: 3rem;
+    margin: 20px;
+
+}
+.main p{
+    font-size: 2rem;
+}
+.section1{
+    justify-content: center;
+}
+
+.plan{
+    display: flex;
+}
+.element{
+    font-size: 2rem;
+    font-weight: 700;
+    margin:15px 10px ;
+    padding: 10px;
+}
+.sous-element{
+    padding:5px;
+    font-size: 1.3rem;
+    font-weight: normal;
+}
